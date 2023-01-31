@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Matt, and I'm a senior in Columbia College studying computer science. Before coming to Columbia, I grew up in Los Angeles, California. In my free time, I like watching football and basketball (Go Nets!), listening to fantasy football podcasts (8x champion), and playing Spikeball with my friends. I am looking to contribute to any sports or sports analytics-based projects.
+
+![Twitter](https://img.shields.io/twitter/follow/matt_kim9?style=social)
 
 <!--
 **mjk2244/mjk2244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
